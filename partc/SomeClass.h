@@ -12,6 +12,7 @@ public:
 
     int getX() const;
 
+    void printItOut() const;
     // TODO: add some code here
 
 
